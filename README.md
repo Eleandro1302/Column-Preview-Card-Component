@@ -30,14 +30,14 @@ Here is a preview of the project:
 #### Mobile Preview
 ![Mobile Preview](./Images/mobile.gif)
 
-[Click here to view the live site](https://eleandro.github.io/Column-Preview-Card-Component/)
+[Click here to view the live site](https://eleandro1302.github.io/Column-Preview-Card-Component/)
 
 ---
 
 ### Links
 
-- **Solution URL**: [GitHub Repository](https://github.com/Eleandro/Column-Preview-Card-Component)
-- **Live Site URL**: [Live Site](https://eleandro.github.io/Column-Preview-Card-Component/)
+- **Solution URL**: [GitHub Repository](https://github.com/Eleandro1302/Column-Preview-Card-Component)
+- **Live Site URL**: [Live Site](https://eleandro1302.github.io/Column-Preview-Card-Component/)
 
 ---
 
@@ -154,14 +154,14 @@ Aqui está uma pré-visualização do projeto:
 #### Pré-visualização Mobile
 ![Pré-visualização Mobile](./Images/mobile.gif)
 
-[Clique aqui para ver o site ao vivo](https://eleandro.github.io/Column-Preview-Card-Component/)
+[Clique aqui para ver o site ao vivo](https://eleandro1302.github.io/Column-Preview-Card-Component/)
 
 ---
 
 ### Links
 
-- **URL da Solução**: [Repositório no GitHub](https://github.com/Eleandro/Column-Preview-Card-Component)
-- **URL do Site ao Vivo**: [Site ao Vivo](https://eleandro.github.io/Column-Preview-Card-Component/)
+- **URL da Solução**: [Repositório no GitHub](https://github.com/Eleandro1302/Column-Preview-Card-Component)
+- **URL do Site ao Vivo**: [Site ao Vivo](https://eleandro1302.github.io/Column-Preview-Card-Component/)
 
 ---
 
